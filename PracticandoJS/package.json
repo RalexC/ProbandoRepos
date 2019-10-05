@@ -1,0 +1,23 @@
+{
+  "name": "practicandojs",
+  "version": "0.1.0",
+  "description": "nose que poner xd",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practicando",
+    "js"
+  ],
+  "author": "myselft",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "materialize-css": "^0.97.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
